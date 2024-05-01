@@ -11,7 +11,7 @@
     <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
     <FileVersion>$(AssemblyVersion)</FileVersion>
     <AssemblyVersion>$(Version)</AssemblyVersion>
-    <Version>0.0.0.0</Version>
+    <Version>0.1.0.0</Version>
     <ApplicationIcon>Resources\search-folder.ico</ApplicationIcon>
     <PackageIcon>Resources\search-folder.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
